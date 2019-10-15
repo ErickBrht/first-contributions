@@ -40,7 +40,7 @@ Esse documento provê informações sobre como esmagar commits juntos em um só 
 
 ### [Desfazendo um commit local](../git_workflow_scenarios/undoing-a-commit.md)
 Esse documento provê informações sobre como desfazer um commit no seu repositório local. Isso é o que você precisa fazer quando você sente que fez alguma besteira no seu repositório e deseja desfazer.
-> Take these steps if you want to undo/reset a local commit.
+> Siga esses passos se você quiser refazer/resetar um commit local.
 
 ### [Links úteis](../git_workflow_scenarios/Useful-links-for-further-learning.md)
 Esse documento é dedicado a todos os blog posts, sites úteis, dicas e truques que fazem a nossa vida mais simples. Seja você um expert ou um iniciante, essa pagina deve servir como um index para todos esses links úteis para ajudar qualquer um que seja novo no mundo de projetos open-source ou alguém que queira prender mais a respeito.
